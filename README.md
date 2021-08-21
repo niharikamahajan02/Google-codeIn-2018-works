@@ -17,7 +17,7 @@ Google Code-in 2018 Summary for Niharika05,
 3)Sugar Labs
         Make a Pull Request
         
-  ![image](https://user-images.githubusercontent.com/72392580/130323488-da9eda02-1f79-4f72-9d2b-36377fec1a25.png)
+  
 
         
         
