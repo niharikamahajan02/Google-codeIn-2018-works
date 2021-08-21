@@ -1,6 +1,7 @@
 # Google-codeIn-2018-works
 Had completed 3 tasks in GCI 2018 ,
-Since these tasks were done long year back therefore my then used github profile is no longer available ....But1 task that I completed with FOSSASIA mentors is available on github pages ...link-https://niharikamahajan123.github.io/
+Since these tasks were done long year back and my github id then was-https://github.com/NiharikaMahajan123 ....
+1 task that I completed with FOSSASIA mentors is available on github pages ...link-https://niharikamahajan123.github.io/
 
 
 Google Code-in 2018 Summary for Niharika05,
