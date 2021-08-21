@@ -12,8 +12,14 @@ Google Code-in 2018 Summary for Niharika05,
           
 2)Sustainable Computing Research Lab (SCoRe)-
           [Git] Getting Started - Create a New Repository.
+          
 3)Sugar Labs
         Make a Pull Request
-![image](https://user-images.githubusercontent.com/72392580/130323179-df0221ab-b4b8-49ce-a5ce-03a19c316a2d.png)
+        
+        
+           ![image](https://user-images.githubusercontent.com/72392580/130323446-bd8ea65f-a846-4bd3-92d3-c43aec212d20.png)
+
+   
+
 
 
