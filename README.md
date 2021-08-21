@@ -6,18 +6,21 @@ Since these tasks were done long year back therefore my then used github profile
 Google Code-in 2018 Summary for Niharika05,
 
 1)FOSSASIA-
-          SUSI.AI: Add your personal SUSI.AI bot to your Github Pages
+          SUSI.AI: Add your personal SUSI.AI bot to your Github Pages.
+          link to github page-https://niharikamahajan123.github.io/
           
-          link to the Github Pages- https://niharikamahajan123.github.io/
-          
+        
 2)Sustainable Computing Research Lab (SCoRe)-
           [Git] Getting Started - Create a New Repository.
           
 3)Sugar Labs
         Make a Pull Request
         
+  ![image](https://user-images.githubusercontent.com/72392580/130323488-da9eda02-1f79-4f72-9d2b-36377fec1a25.png)
+
         
-           ![image](https://user-images.githubusercontent.com/72392580/130323446-bd8ea65f-a846-4bd3-92d3-c43aec212d20.png)
+        
+          
 
    
 
